@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robis/Desktop/2uzduotis/untitled/Studentas.h
+iostream
+-
+
+/Users/robis/Desktop/2uzduotis/untitled/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+string
+-
+Studentas.h
+/Users/robis/Desktop/2uzduotis/untitled/Studentas.h
+
